@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    margin-top: -0.5%;
+    color: #FCCC00;
+    font-family: Calibri, serif;
+    font-size: 400%;
+    font-weight: bold;
+}
+
+#canvas{
+    transform: scaleX(-1);
+}
+
+#camBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+}
